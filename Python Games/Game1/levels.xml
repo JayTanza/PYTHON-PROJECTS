@@ -1,0 +1,910 @@
+<all>
+<!--
+Legend for the map:
+0: Sea
+1: Land
+2: Stone
+3: Ice
+-->
+<level name="01" width="6" height="6">
+	<map content="000000 010111 012010 101021 010111 000000" />
+	<objects>
+		<wood x="3" y="2" />
+		<wood x="2" y="4" />
+		<wood x="4" y="4" />
+		<exit x="5" y="3" />
+	</objects>
+	<animals>
+		<fox x="2" y="4" />
+	</animals>
+</level>
+
+<level name="02" width="6" height="5">
+	<map content="000020 110111 012100 011100 000000" />
+	<objects>
+		<wood x="3" y="2" />
+		<exit x="5" y="2" />
+		<exit x="6" y="2" />
+	</objects>
+	<animals>
+		<fox x="1" y="2" />
+		<fox x="2" y="2" />
+	</animals>
+</level>
+
+<level name="03" width="5" height="5">
+	<map content="02000 11000 11110 11200 00000" />
+	<objects>
+		<exit x="3" y="3" />
+		<exit x="4" y="3" />
+	</objects>
+	<animals>
+		<fox x="1" y="2" />
+		<fox x="1" y="4" />
+	</animals>
+</level>
+
+<level name="04" width="6" height="5">
+	<map content="000000 000010 021112 101010 000000" />
+	<objects>
+		<wood x="4" y="2" />
+		<wood x="4" y="4" />
+		<wood x="2" y="4" />
+		<exit x="4" y="3" />
+		<exit x="3" y="4" />
+	</objects>
+	<animals>
+		<fox x="5" y="4" />
+		<fox x="1" y="4" />
+	</animals>
+</level>
+
+<level name="05" width="5" height="5">
+	<map content="00000 01000 00210 01000 00000" />
+	<objects>
+		<wood x="2" y="3" />
+		<exit x="4" y="3" />
+	</objects>
+	<animals>
+		<duck x="2" y="3" />
+	</animals>
+</level>
+
+<level name="06" width="4" height="4">
+	<map content="1100 0020 1000 0010" />
+	<objects>
+		<wood x="2" y="2" />
+		<wood x="2" y="3" />
+		<exit x="1" y="3" />
+		<exit x="3" y="4" />
+	</objects>
+	<animals>
+		<fox x="1" y="1" />
+		<duck x="1" y="2" />
+	</animals>
+</level>
+
+<level name="07" width="4" height="4">
+	<map content="1121 1011 1011 1110" />
+	<objects>
+		<wood x="2" y="2" />
+		<wood x="2" y="3" />
+		<wood x="4" y="4" />
+		<exit x="4" y="3" />
+		<exit x="4" y="2" />
+	</objects>
+	<animals>
+		<fox x="1" y="3" />
+		<buffalo x="1" y="2" />
+	</animals>
+</level>
+
+<level name="08" width="5" height="5">
+	<map content="00100 01012 00010 00210 00000" />
+	<objects>
+		<wood x="1" y="2" />
+		<wood x="1" y="3" />
+		<wood x="1" y="4" />
+		<wood x="2" y="3" />
+		<wood x="2" y="4" />
+		<exit x="3" y="1" />
+		<exit x="2" y="2" />
+		<exit x="4" y="2" />
+	</objects>
+	<animals>
+		<fox x="2" y="3" />
+		<buffalo x="4" y="3" />
+		<duck x="3" y="3" />
+	</animals>
+</level>
+
+<level name="09" width="5" height="5">
+	<map content="00000 01000 01120 01110 00000" />
+	<objects>
+		<exit x="2" y="2" />
+		<exit x="3" y="3" />
+		<exit x="4" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="4" />
+		<buffalo x="3" y="4" />
+		<duck x="4" y="4" />
+	</animals>
+</level>
+
+<level name="10" width="5" height="5">
+	<map content="00012 01010 21110 11010 00020" />
+	<objects>
+		<wood x="3" y="2" />
+		<wood x="3" y="4" />
+		<exit x="4" y="2" />
+		<exit x="4" y="3" />
+		<exit x="4" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="3" />
+		<buffalo x="2" y="2" />
+		<duck x="2" y="4" />
+	</animals>
+</level>
+
+<level name="11" width="5" height="5">
+	<map content="00002 10100  12010 11200 00000" />
+	<objects>
+		<wood x="2" y="2" />
+		<wood x="4" y="2" />
+		<wood x="3" y="3" />
+		<wood x="5" y="2" />
+		<wood x="5" y="3" />
+		<exit x="3" y="2" />
+		<exit x="4" y="3" />
+		<exit x="2" y="4" />
+	</objects>
+	<animals>
+		<fox x="3" y="3" />
+		<buffalo x="1" y="2" />
+		<duck x="1" y="4" />
+	</animals>
+</level>
+
+<level name="12" width="5" height="6">
+	<map content="00000 01111 01112 01111 01110 00000" />
+	<objects>
+		<exit x="3" y="2" />
+		<exit x="3" y="3" />
+		<exit x="3" y="4" />
+	</objects>
+	<animals>
+		<buffalo x="2" y="5" />
+		<buffalo x="3" y="5" />
+		<buffalo x="4" y="5" />
+	</animals>
+</level>
+
+<level name="13" width="5" height="5">
+	<map content="00000 01110 01210 21110 01110" />
+	<objects>
+		<exit x="3" y="2" />
+		<exit x="2" y="3" />
+		<exit x="3" y="4" />
+	</objects>
+	<animals>
+		<fox x="4" y="4" />
+		<buffalo x="3" y="2" />
+		<duck x="2" y="4" />
+	</animals>
+</level>
+
+<level name="14" width="5" height="5">
+	<map content="11111 21212 11000  12020 10101" />
+	<objects>
+		<wood x="5" y="3" />
+		<wood x="5" y="4" />
+		<wood x="4" y="3" />
+		<exit x="1" y="5" />
+		<exit x="3" y="5" />
+		<exit x="5" y="5" />
+	</objects>
+	<animals>
+		<fox x="1" y="1" />
+		<buffalo x="5" y="1" />
+		<duck x="3" y="1" />
+	</animals>
+</level>
+
+<level name="15" width="5" height="5">
+	<map content="00111 01121 11011 01110 01120" />
+	<objects>
+		<exit x="1" y="3" />
+		<exit x="2" y="3" />
+		<exit x="3" y="2" />
+	</objects>
+	<animals>
+		<fox x="2" y="5" />
+		<buffalo x="3" y="5" />
+		<duck x="1" y="5" />
+	</animals>
+</level>
+
+<level name="16" width="6" height="5">
+	<map content="000000 010020 001100 020100 000000" />
+	<objects>
+		<wood x="4" y="2" />
+		<wood x="3" y="4" />
+		<exit x="2" y="2" />
+		<exit x="3" y="3" />
+		<exit x="4" y="4" />
+	</objects>
+	<animals>
+		<fox x="3" y="3" />
+		<duck x="2" y="2" />
+		<duck x="4" y="2" />
+	</animals>
+</level>
+
+<level name="17" width="5" height="6">
+	<map content="11000 12200 10110 10110 12200 11000" />
+	<objects>
+		<wood x="2" y="3" />
+		<wood x="2" y="4" />
+		<exit x="3" y="3" />
+		<exit x="3" y="4" />
+		<exit x="4" y="3" />
+		<exit x="4" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="1" />
+		<fox x="2" y="6" />
+		<duck x="1" y="1" />
+		<duck x="1" y="6" />
+	</animals>
+</level>
+
+<level name="18" width="5" height="5">
+	<map content="00000 12110 11021 21110 00020" />
+	<objects>
+		<wood x="3" y="3" />
+		<wood x="5" y="4" />
+		<exit x="4" y="2" />
+		<exit x="5" y="3" />
+		<exit x="4" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="3" />
+		<duck x="1" y="3" />
+		<buffalo x="1" y="2" />
+	</animals>
+</level>
+
+<level name="19" width="5" height="4">
+	<map content="00111 01021 10211 02110" />
+	<objects>
+		<wood x="2" y="1" />
+		<wood x="2" y="3" />
+		<exit x="3" y="1" />
+		<exit x="2" y="2" />
+		<exit x="1" y="3" />
+	</objects>
+	<animals>
+		<fox x="5" y="2" />
+		<duck x="4" y="3" />
+		<buffalo x="3" y="4" />
+	</animals>
+</level>
+
+<level name="20" width="5" height="4">
+	<map content="11111 12010 11010 01120" />
+	<objects>
+		<wood x="5" y="2" />
+		<exit x="4" y="1" />
+		<exit x="4" y="2" />
+		<exit x="4" y="3" />
+	</objects>
+	<animals>
+		<fox x="1" y="3" />
+		<duck x="1" y="4" />
+		<buffalo x="2" y="3" />
+	</animals>
+</level>
+
+<level name="21" width="5" height="3">
+	<map content="00011 20210 11110" />
+	<objects>
+		<exit x="4" y="1" />
+		<exit x="4" y="2" />
+		<exit x="5" y="1" />
+	</objects>
+	<animals>
+		<fox x="3" y="3" />
+		<duck x="2" y="3" />
+		<buffalo x="4" y="3" />
+	</animals>
+</level>
+
+<level name="22" width="4" height="5">
+	<map content="0011 0212 0111 0002 0100" />
+	<objects>
+		<wood x="1" y="1" />
+		<wood x="1" y="2" />
+		<wood x="1" y="3" />
+		<wood x="2" y="1" />
+		<exit x="2" y="3" />
+		<exit x="2" y="5" />
+		<exit x="4" y="3" />
+	</objects>
+	<animals>
+		<fox x="2" y="3" />
+		<duck x="3" y="4" />
+		<buffalo x="3" y="2" />
+	</animals>
+</level>
+
+<level name="23" width="6" height="5">
+	<map content="000000 013320 013310 013320 000000" />
+	<objects>
+		<exit x="2" y="2" />
+		<exit x="5" y="3" />
+		<exit x="2" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="2" />
+		<buffalo x="2" y="4" />
+		<duck x="2" y="3" />
+	</animals>
+</level>
+
+<level name="24" width="6" height="6">
+	<map content="000000 011010 013012 013310 012000 000000" />
+	<objects>
+		<wood x="4" y="2" />
+		<wood x="4" y="3" />
+		<exit x="5" y="2" />
+		<exit x="5" y="3" />
+		<exit x="5" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="2" />
+		<buffalo x="2" y="4" />
+		<duck x="2" y="3" />
+	</animals>
+</level>
+
+<level name="25" width="6" height="5">
+	<map content="000000 112001 113331 110011 000000" />
+	<objects>
+		<wood x="3" y="4" />
+		<exit x="6" y="3" />
+		<exit x="6" y="4" />
+		<exit x="5" y="4" />
+	</objects>
+	<animals>
+		<fox x="1" y="3" />
+		<buffalo x="1" y="2" />
+		<duck x="2" y="3" />
+	</animals>
+</level>
+
+<level name="26" width="5" height="4">
+	<map content="00001 30303 10111 00101" />
+	<objects>
+		<wood x="1" y="1" />
+		<wood x="2" y="3" />
+		<wood x="3" y="1" />
+		<exit x="3" y="4" />
+		<exit x="4" y="3" />
+		<exit x="5" y="4" />
+	</objects>
+	<animals>
+		<fox x="1" y="1" />
+		<buffalo x="5" y="1" />
+		<duck x="3" y="1" />
+	</animals>
+</level>
+
+<level name="27" width="6" height="5">
+	<map content="000000 213301 013311 213301 111000" />
+	<objects>
+		<wood x="3" y="1" />
+		<wood x="5" y="4" />
+		<exit x="6" y="2" />
+		<exit x="6" y="3" />
+		<exit x="6" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="2" />
+		<buffalo x="2" y="4" />
+		<duck x="2" y="3" />
+	</animals>
+</level>
+
+<level name="28" width="4" height="6">
+	<map content="2100 1120 1100 1020 1112 0010" />
+	<objects>
+		<wood x="3" y="3" />
+		<wood x="2" y="4" />
+		<exit x="1" y="4" />
+		<exit x="2" y="5" />
+		<exit x="3" y="6" />
+	</objects>
+	<animals>
+		<fox x="1" y="4" />
+		<buffalo x="1" y="3" />
+		<duck x="1" y="5" />
+	</animals>
+</level>
+
+<level name="29" width="6" height="6">
+	<map content="000000 113310 311110 311210 013310 000000" />
+	<objects>
+		<exit x="3" y="4" />
+		<exit x="5" y="2" />
+		<exit x="5" y="5" />
+	</objects>
+	<animals>
+		<fox x="2" y="3" />
+		<fox x="2" y="4" />
+		<duck x="3" y="4" />
+	</animals>
+</level>
+
+<level name="30" width="5" height="4">
+	<map content="13131 03330 13330 01110" />
+	<objects>
+		<wood x="1" y="2" />
+		<wood x="5" y="2" />
+		<wood x="5" y="3" />
+		<exit x="1" y="3" />
+		<exit x="2" y="4" />
+		<exit x="4" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="4" />
+		<buffalo x="3" y="4" />
+		<duck x="4" y="4" />
+	</animals>
+</level>
+
+<level name="31" width="5" height="5">
+	<map content="13231 31313 23332 31313 13231" />
+	<objects>
+		<exit x="2" y="2" />
+		<exit x="2" y="4" />
+		<exit x="4" y="2" />
+		<exit x="4" y="4" />
+	</objects>
+	<animals>
+		<buffalo x="1" y="1" />
+		<buffalo x="1" y="5" />
+		<buffalo x="5" y="1" />
+		<buffalo x="5" y="5" />
+	</animals>
+</level>
+
+<level name="32" width="5" height="5">
+	<map content="11101 02100 11110 12100 101000" />
+	<objects>
+		<exit x="3" y="1" />
+		<exit x="5" y="1" />
+		<exit x="4" y="3" />
+	</objects>
+	<animals>
+		<fox x="1" y="3" />
+		<buffalo x="1" y="1" />
+		<duck x="1" y="5" />
+	</animals>
+</level>
+
+<level name="33" width="4" height="4">
+	<map content="1112 3331 3131 0000" />
+	<objects>
+		<wood x="2" y="4" />
+		<wood x="3" y="4" />
+		<wood x="4" y="4" />
+		<exit x="1" y="1" />
+		<exit x="2" y="1" />
+		<exit x="3" y="1" />
+	</objects>
+	<animals>
+		<fox x="2" y="3" />
+		<buffalo x="4" y="2" />
+		<duck x="1" y="2" />
+	</animals>
+</level>
+
+<level name="34" width="5" height="6">
+	<map content="00000 02110 01110 02330 02110 00000" />
+	<objects>
+		<exit x="3" y="2" />
+		<exit x="3" y="3" />
+		<exit x="4" y="2" />
+		<exit x="4" y="3" />
+	</objects>
+	<animals>
+		<fox x="3" y="5" />
+		<fox x="4" y="5" />
+		<duck x="4" y="6" />
+		<duck x="5" y="6" />
+	</animals>
+</level>
+
+<level name="35" width="5" height="5">
+	<map content="02110 00111 00330 03330 00110" />
+	<objects>
+		<wood x="2" y="2" />
+		<wood x="2" y="5" />
+		<exit x="3" y="1" />
+		<exit x="4" y="1" />
+		<exit x="5" y="2" />
+	</objects>
+	<animals>
+		<fox x="3" y="5" />
+		<fox x="4" y="5" />
+		<duck x="2" y="5" />
+	</animals>
+</level>
+
+<level name="36" width="5" height="5">
+	<map content="00111 11311 10300 10311 01111" />
+	<objects>
+		<wood x="2" y="1" />
+		<wood x="2" y="4" />
+		<wood x="5" y="3" />
+		<exit x="1" y="2" />
+		<exit x="1" y="3" />
+		<exit x="1" y="4" />
+	</objects>
+	<animals>
+		<fox x="3" y="1" />
+		<buffalo x="3" y="5" />
+		<duck x="4" y="3" />
+	</animals>
+</level>
+
+<level name="37" width="5" height="7">
+	<map content="00100 01110 13331 13231 01110 01110 00000" />
+	<objects>
+		<wood x="2" y="1" />
+		<exit x="2" y="2" />
+		<exit x="4" y="2" />
+		<exit x="3" y="5" />
+	</objects>
+	<animals>
+		<fox x="3" y="1" />
+		<buffalo x="3" y="3" />
+		<duck x="3" y="2" />
+	</animals>
+</level>
+
+<level name="38" width="5" height="5">
+	<map content="00201 02101 01021 01111 00000" />
+	<objects>
+		<exit x="3" y="2" />
+		<exit x="5" y="2" />
+		<exit x="5" y="3" />
+	</objects>
+	<animals>
+		<fox x="3" y="4" />
+		<buffalo x="2" y="4" />
+		<duck x="3" y="5" />
+	</animals>
+</level>
+
+<level name="39" width="5" height="5">
+	<map content="00211 10111 03333 12103 00111" />
+	<objects>
+		<wood x="1" y="3" />
+		<wood x="1" y="5" />
+		<wood x="2" y="2" />
+		<wood x="2" y="5" />
+		<exit x="1" y="2" />
+		<exit x="1" y="4" />
+		<exit x="3" y="2" />
+		<exit x="3" y="4" />
+	</objects>
+	<animals>
+		<fox x="2" y="2" />
+		<buffalo x="4" y="2" />
+		<duck x="3" y="2" />
+		<duck x="3" y="5" />
+	</animals>
+</level>
+
+<level name="40" width="5" height="5">
+	<map content="00000 01110 01000 11111 00000" />
+	<objects>
+		<portal x="1" y="4" />
+		<portal x="5" y="4" />
+		<wood x="4" y="3" />
+		<exit x="2" y="2" />
+		<exit x="3" y="2" />
+		<exit x="4" y="2" />
+	</objects>
+	<animals>
+		<fox x="3" y="4" />
+		<buffalo x="4" y="4" />
+		<duck x="2" y="4" />
+	</animals>
+</level>
+
+<level name="41" width="5" height="5">
+	<map content="02000 01110 01110 01110 01000" />
+	<objects>
+		<portal x="2" y="3" />
+		<portal x="4" y="3" />
+		<wood x="3" y="1" />
+		<wood x="3" y="5" />
+		<exit x="3" y="3" />
+		<exit x="2" y="5" />
+	</objects>
+	<animals>
+		<fox x="3" y="2" />
+		<fox x="3" y="4" />
+	</animals>
+</level>
+
+<level name="42" width="6" height="6">
+	<map content="000000 000120 011110 210012 011110 000200" />
+	<objects>
+		<portal x="2" y="3" />
+		<portal x="5" y="3" />
+		<exit x="3" y="5" />
+		<exit x="4" y="5" />
+	</objects>
+	<animals>
+		<fox x="3" y="3" />
+		<buffalo x="4" y="3" />
+	</animals>
+</level>
+
+<level name="43" width="5" height="5">
+	<map content="00100 00200 11111 00200 00100" />
+	<objects>
+		<portal x="1" y="3" />
+		<portal x="5" y="3" />
+		<exit x="3" y="1" />
+		<exit x="3" y="3" />
+		<exit x="3" y="5" />
+	</objects>
+	<animals>
+		<fox x="3" y="3" />
+		<duck x="2" y="3" />
+		<duck x="4" y="3" />
+	</animals>
+</level>
+
+<level name="44" width="4" height="4">
+	<map content="0110 1211 0101 0111" />
+	<objects>
+		<wood x="1" y="1" />
+		<wood x="1" y="3" />
+		<wood x="3" y="3" />
+		<exit x="2" y="3" />
+		<exit x="2" y="4" />
+		<exit x="3" y="4" />
+	</objects>
+	<animals>
+		<fox x="1" y="2" />
+		<duck x="3" y="2" />
+		<buffalo x="2" y="3" />
+	</animals>
+</level>
+
+<level name="45" width="5" height="5">
+	<map content="01010 11111 10101 10201 00000" />
+	<objects>
+		<portal x="1" y="3" />
+		<portal x="5" y="3" />
+		<exit x="1" y="2" />
+		<exit x="2" y="1" />
+		<exit x="3" y="2" />
+		<exit x="4" y="1" />
+	</objects>
+	<animals>
+		<fox x="2" y="2" />
+		<duck x="3" y="2" />
+		<duck x="4" y="1" />
+		<buffalo x="4" y="2" />
+	</animals>
+</level>
+
+<level name="46" width="6" height="6">
+	<map content="000000 011111 211101 001101 001112 000000" />
+	<objects>
+		<portal x="2" y="2" />
+		<portal x="5" y="5" />
+		<exit x="3" y="3" />
+		<exit x="4" y="4" />
+	</objects>
+	<animals>
+		<fox x="3" y="5" />
+		<buffalo x="4" y="5" />
+	</animals>
+</level>
+
+<level name="47" width="5" height="4">
+	<map content="00111 01000 00200 00010" />
+	<objects>
+		<portal x="2" y="2" />
+		<portal x="4" y="4" />
+		<wood x="1" y="2" />
+		<wood x="4" y="2" />
+		<wood x="4" y="3" />
+		<exit x="3" y="1" />
+		<exit x="4" y="1" />
+		<exit x="5" y="1" />
+	</objects>
+	<animals>
+		<fox x="1" y="2" />
+		<duck x="3" y="4" />
+		<duck x="5" y="3" />
+	</animals>
+</level>
+
+<level name="48" width="5" height="4">
+	<map content="00200 10201 00200 111111" />
+	<objects>
+		<portal x="1" y="2" />
+		<portal x="5" y="2" />
+		<wood x="2" y="3" />
+		<exit x="1" y="4" />
+		<exit x="2" y="4" />
+		<exit x="3" y="4" />
+		<exit x="4" y="4" />
+		<exit x="5" y="4" />
+	</objects>
+	<animals>
+		<fox x="3" y="4" />
+		<duck x="1" y="3" />
+		<duck x="1" y="4" />
+		<duck x="2" y="3" />
+		<duck x="2" y="4" />
+	</animals>
+</level>
+
+<level name="49" width="4" height="4">
+	<map content="1000 1301 1331 0100" />
+	<objects>
+		<portal x="1" y="3" />
+		<portal x="4" y="3" />
+		<wood x="3" y="2" />
+		<wood x="1" y="4" />
+		<wood x="3" y="4" />
+		<exit x="1" y="1" />
+		<exit x="1" y="2" />
+	</objects>
+	<animals>
+		<fox x="4" y="2" />
+		<buffalo x="1" y="2" />
+	</animals>
+</level>
+
+<level name="50" width="5" height="4">
+	<map content="00000 11111 11110 00111" />
+	<objects>
+		<portal x="1" y="2" />
+		<portal x="5" y="4" />
+		<wood x="1" y="1" />
+		<wood x="2" y="1" />
+		<wood x="4" y="1" />
+		<wood x="5" y="1" />
+		<wood x="5" y="3" />
+		<wood x="2" y="4" />
+		<exit x="1" y="3" />
+		<exit x="2" y="3" />
+		<exit x="3" y="3" />
+		<exit x="4" y="3" />
+	</objects>
+	<animals>
+		<fox x="1" y="1" />
+		<fox x="2" y="1" />
+		<fox x="4" y="1" />
+		<fox x="5" y="1" />
+	</animals>
+</level>
+
+<level name="51" width="5" height="4">
+	<map content="00000 01011 01211 10102" />
+	<objects>
+		<portal x="2" y="2" />
+		<portal x="4" y="2" />
+		<wood x="1" y="2" />
+		<wood x="1" y="3" />
+		<wood x="2" y="4" />
+		<exit x="1" y="4" />
+		<exit x="2" y="3" />
+		<exit x="3" y="4" />
+	</objects>
+	<animals>
+		<fox x="1" y="2" />
+		<buffalo x="5" y="2" />
+		<duck x="3" y="1" />
+	</animals>
+</level>
+
+<level name="52" width="6" height="6">
+	<map content="011110 002100 001100 000100 011100 000000" />
+	<objects>
+		<portal x="2" y="1" />
+		<portal x="4" y="4" />
+		<wood x="3" y="4" />
+		<exit x="2" y="5" />
+		<exit x="3" y="5" />
+		<exit x="4" y="5" />
+	</objects>
+	<animals>
+		<fox x="4" y="3" />
+		<buffalo x="3" y="3" />
+		<duck x="5" y="3" />
+	</animals>
+</level>
+
+<level name="53" width="7" height="5">
+	<map content="0020000 0011310 0333330 0111110 0011100" />
+	<objects>
+		<portal x="3" y="2" />
+		<portal x="6" y="2" />
+		<wood x="2" y="2" />
+		<exit x="2" y="4" />
+		<exit x="4" y="2" />
+		<exit x="6" y="4" />
+	</objects>
+	<animals>
+		<fox x="4" y="4" />
+		<buffalo x="5" y="5" />
+		<duck x="5" y="4" />
+	</animals>
+</level>
+
+<level name="54" width="5" height="5">
+	<map content="01110 00020 11110 11100 00000" />
+	<objects>
+		<portal x="2" y="1" />
+		<portal x="2" y="3" />
+		<exit x="1" y="3" />
+		<exit x="1" y="4" />
+		<exit x="2" y="4" />
+	</objects>
+	<animals>
+		<fox x="1" y="4" />
+		<buffalo x="3" y="1" />
+		<duck x="4" y="3" />
+	</animals>
+</level>
+
+<level name="55" width="4" height="4">
+	<map content="1000 1121 0011 1111" />
+	<objects>
+		<portal x="1" y="1" />
+		<portal x="3" y="4" />
+		<wood x="2" y="1" />
+		<wood x="2" y="3" />
+		<exit x="2" y="4" />
+		<exit x="3" y="3" />
+		<exit x="4" y="2" />
+	</objects>
+	<animals>
+		<fox x="1" y="2" />
+		<buffalo x="1" y="4" />
+		<duck x="4" y="4" />
+	</animals>
+</level>
+
+<level name="56" width="7" height="6">
+	<map content="0000000 0211020 0110100 0110102 2111111 0000000" />
+	<objects>
+		<portal x="2" y="5" />
+		<portal x="6" y="5" />
+		<wood x="5" y="2" />
+		<wood x="6" y="3" />
+		<exit x="4" y="2" />
+		<exit x="3" y="4" />
+		<exit x="5" y="4" />
+	</objects>
+	<animals>
+		<fox x="3" y="5" />
+		<buffalo x="4" y="5" />
+		<duck x="5" y="5" />
+	</animals>
+</level>
+
+</all>
